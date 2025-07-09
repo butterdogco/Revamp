@@ -70,13 +70,6 @@ body {
     cursor: pointer;
     transition: var(--transition-quick);
 
-    /* What ze fuck */
-    img {
-      min-height: var(--img-size-small);
-      max-height: var(--img-size-small);
-      object-fit: contain;
-    }
-
     .NavClose {
       display: none;
     }
@@ -84,6 +77,11 @@ body {
     &:hover {
       filter: brightness(80%);
     }
+  }
+
+  .NavToggle img {
+    height: var(--img-size-small);
+    object-fit: contain;
   }
 
   &:not(.Collapsed) {
