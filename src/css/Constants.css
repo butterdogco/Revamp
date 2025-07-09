@@ -1,0 +1,39 @@
+:root {
+  --background-color: rgb(46, 38, 28);
+  --background-image: url("../img/background.png");
+
+  --font-primary: sans-serif;
+
+  --text-color-primary: white;
+
+  --outer-margin: 20px;
+
+  --white-mostly-transparent: rgba(255, 255, 255, 0.175);
+  --white-very-transparent: rgba(255, 255, 255, 0.1);
+
+  --outline-white-very-transparent: 3px solid var(--white-very-transparent);
+
+  --filter-bg-blur: blur(12px);
+
+  --radius-circle: 50%;
+  --radius-round: 30vh;
+  --radius-smooth: 12px;
+
+  --padding-large: 28px;
+
+  --margin-small: 8px;
+  --margin-medium: 16px;
+  --margin-large: 24px;
+
+  --img-size-icon: 30px;
+  --img-size-small: 50px;
+
+  --nav-collapsed-width: calc((var(--img-size-small) * 2) + var(--padding-large));
+
+  --content-nav-gap: calc(
+    var(--img-size-small) /* Nav icon */
+    + (var(--padding-large) * 2) /* Nav padding */
+  );
+
+  --transition-quick: 0.2s ease;
+}
