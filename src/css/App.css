@@ -71,7 +71,7 @@ body {
     transition: var(--transition-quick);
 
     img {
-      height: var(--img-size-small);
+      height: inherit;
       object-fit: contain;
     }
 
