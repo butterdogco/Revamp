@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4d085eb.css",
+    "main.css": "/static/css/main.eb8e890b.css",
     "main.js": "/static/js/main.07ac2877.js",
     "static/media/background.png": "/static/media/background.e7942e0d8c34f880afb0.png",
     "static/media/ButterDog Glow.png": "/static/media/ButterDog Glow.15334e45f36ac5e3e6c3.png",
     "static/media/butterdogco.png": "/static/media/butterdogco.0b6e239dd76088c137a2.png",
     "index.html": "/index.html",
-    "main.a4d085eb.css.map": "/static/css/main.a4d085eb.css.map",
+    "main.eb8e890b.css.map": "/static/css/main.eb8e890b.css.map",
     "main.07ac2877.js.map": "/static/js/main.07ac2877.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4d085eb.css",
+    "static/css/main.eb8e890b.css",
     "static/js/main.07ac2877.js"
   ]
 }
