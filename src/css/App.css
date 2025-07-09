@@ -70,8 +70,10 @@ body {
     cursor: pointer;
     transition: var(--transition-quick);
 
+    /* What ze fuck */
     img {
-      height: inherit;
+      min-height: var(--img-size-small);
+      max-height: var(--img-size-small);
       object-fit: contain;
     }
 
