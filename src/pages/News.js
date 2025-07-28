@@ -8,6 +8,7 @@ function News() {
       exit={{x: -window.innerWidth}}
     >
       <h1>News from ButterDogCo</h1>
+      <p>Minecraft server has officially released!</p>
     </motion.main>
   )
 }
